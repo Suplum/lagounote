@@ -27,4 +27,4 @@ class Container {
 
 // 演示 null undefined 的问题
 Container.of(null)
-  .mapmap(x => x.toUpperCase())
+  .map(x => x.toUpperCase())
